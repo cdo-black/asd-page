@@ -19,16 +19,16 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand" href="#page-top">ASD Informáticos</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#signup">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">Nosotros</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#projects">Proyectos</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#signup">Contacto</a></li>
                     </ul>
                 </div>
             </div>
@@ -38,9 +38,9 @@
             <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
                 <div class="d-flex justify-content-center">
                     <div class="text-center">
-                        <h1 class="mx-auto my-0 text-uppercase">Grayscale</h1>
-                        <h2 class="text-white-50 mx-auto mt-2 mb-5">A free, responsive, one page Bootstrap theme created by Start Bootstrap.</h2>
-                        <a class="btn btn-primary" href="#about">Get Started</a>
+                        <h1 class="mx-auto my-0 text-uppercase">ASD</h1>
+                        <h2 class="text-white-50 mx-auto mt-2 mb-5">Asesorías de TI, Soluciones web y Desarrollos de aplicaciones específicas</h2>
+                        <a class="btn btn-primary" href="#about">Empezar</a>
                     </div>
                 </div>
             </div>
@@ -50,11 +50,11 @@
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8">
-                        <h2 class="text-white mb-4">Built with Bootstrap 5</h2>
+                        <h2 class="text-white mb-4">Algo de Nosotros</h2>
                         <p class="text-white-50">
-                            Grayscale is a free Bootstrap theme created by Start Bootstrap. It can be yours right now, simply download the template on
-                            <a href="https://startbootstrap.com/theme/grayscale/">the preview page.</a>
-                            The theme is open source, and you can use it for any purpose, personal or commercial.
+                            Somos una empresa dedicada a prestar asesoría en tres áreas de servicios específicos, <strong>Asesorías de TI, Soluciones Web y Desarrollos de aplicaciones específicas.</strong> <br>
+                            <strong>Nacemos en el 2015</strong>, producto de que sus fundadores ven las necesidades que poseen las medianas y pequeñas empresas en cuanto a apoyo del área informática. <br>
+                            Estamos formados por un equipo multidisciplinario de profesionales altamente especializados en cada una de las áreas que se requieren cubrir para garantizar el desarrollo de proyectos exitosos en Internet o aplicaciones de escritorio.
                         </p>
                     </div>
                 </div>
@@ -69,8 +69,10 @@
                     <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="assets/img/bg-masthead.jpg" alt="..." /></div>
                     <div class="col-xl-4 col-lg-5">
                         <div class="featured-text text-center text-lg-left">
-                            <h4>Shoreline</h4>
-                            <p class="text-black-50 mb-0">Grayscale is open source and MIT licensed. This means you can use it for any project - even commercial projects! Download it, customize it, and publish your website!</p>
+                            <h4>Desarrollos</h4>
+                            <p class="text-black-50 mb-0">
+                                ASD Desarrollo de software, está determinado a las oportunidades de negocios que tienen relación a las aplicaciones sobre requerimientos específicos para clientes. 
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -81,8 +83,8 @@
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-white">Misty</h4>
-                                    <p class="mb-0 text-white-50">An example of where you can put an image of a project, or anything else, along with a description.</p>
+                                    <h4 class="text-white">Asesorías de TI</h4>
+                                    <p class="mb-0 text-white-50">ASD Asesorías, guía a clientes en sus decisiones tecnológicas o planes de inversión, evaluación de recursos de TI.</p>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
@@ -96,8 +98,10 @@
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-right">
-                                    <h4 class="text-white">Mountains</h4>
-                                    <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>
+                                    <h4 class="text-white">Soluciones</h4>
+                                    <p class="mb-0 text-white-50">      
+                                        ASD Soluciones de servicios tradicionales que ofrece nuestra empresa, apoyando el desarrollo en internet de nuestros clientes, por medio de soluciones específicas en desarrollo de sus sitios web, hosting y servidores dedicados
+                                    </p>
                                     <hr class="d-none d-lg-block mb-0 me-0" />
                                 </div>
                             </div>
@@ -112,7 +116,7 @@
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-md-10 col-lg-8 mx-auto text-center">
                         <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
-                        <h2 class="text-white mb-5">Subscribe to receive updates!</h2>
+                        <h2 class="text-white mb-5">¡Suscríbete para recibir actualizaciones!</h2>
                         <!-- * * * * * * * * * * * * * * *-->
                         <!-- * * SB Forms Contact Form * *-->
                         <!-- * * * * * * * * * * * * * * *-->
@@ -123,19 +127,23 @@
                         <form class="form-signup" id="contactForm" data-sb-form-api-token="API_TOKEN">
                             <!-- Email address input-->
                             <div class="row input-group-newsletter">
-                                <div class="col"><input class="form-control" id="emailAddress" type="email" placeholder="Enter email address..." aria-label="Enter email address..." data-sb-validations="required,email" /></div>
-                                <div class="col-auto"><button class="btn btn-primary disabled" id="submitButton" type="submit">Notify Me!</button></div>
+                                <div class="col">
+                                    <input class="form-control" id="emailAddress" type="email" placeholder="Introducir la dirección de correo..." aria-label="Introducir la dirección de correo..." data-sb-validations="required,email" />
+                                </div>
+                                <div class="col-auto">
+                                    <button class="btn btn-primary disabled" id="submitButton" type="submit">¡Notificarme!</button>
+                                </div>
                             </div>
-                            <div class="invalid-feedback mt-2" data-sb-feedback="emailAddress:required">An email is required.</div>
-                            <div class="invalid-feedback mt-2" data-sb-feedback="emailAddress:email">Email is not valid.</div>
+                            <div class="invalid-feedback mt-2" data-sb-feedback="emailAddress:required">Se requiere un email.</div>
+                            <div class="invalid-feedback mt-2" data-sb-feedback="emailAddress:email">El correo no es válido.</div>
                             <!-- Submit success message-->
                             <!---->
                             <!-- This is what your users will see when the form-->
                             <!-- has successfully submitted-->
                             <div class="d-none" id="submitSuccessMessage">
                                 <div class="text-center mb-3 mt-2 text-white">
-                                    <div class="fw-bolder">Form submission successful!</div>
-                                    To activate this form, sign up at
+                                    <div class="fw-bolder">Envío de formulario exitoso!</div>
+                                        Para activar este formulario, regístrate en
                                     <br />
                                     <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
                                 </div>
