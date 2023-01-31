@@ -3,10 +3,10 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
+        <meta name="description" content="Desarrollos Informáticos, Asesorías de TI, Proyectos Informáticos" />
+        <meta name="author" content="ASD Informáticos Limitada" />
         <title>ASD Informáticos</title>
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="{{ asset('isotipo.png')}}" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -128,7 +128,7 @@
                             <!-- Email address input-->
                             <div class="row input-group-newsletter">
                                 <div class="col">
-                                    <input class="form-control" id="emailAddress" type="email" placeholder="Introducir la dirección de correo..." aria-label="Introducir la dirección de correo..." data-sb-validations="required,email" />
+                                    <input class="form-control" id="emailAddress" type="email" placeholder="Suscríbete con  tu correo..." aria-label="Suscríbete con tu correo..." data-sb-validations="required,email" />
                                 </div>
                                 <div class="col-auto">
                                     <button class="btn btn-primary disabled" id="submitButton" type="submit">¡Notificarme!</button>
@@ -166,7 +166,7 @@
                         <div class="card py-4 h-100">
                             <div class="card-body text-center">
                                 <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-                                <h4 class="text-uppercase m-0">Address</h4>
+                                <h4 class="text-uppercase m-0">Dirección</h4>
                                 <hr class="my-4 mx-auto" />
                                 <div class="small text-black-50">4923 Market Street, Orlando FL</div>
                             </div>
@@ -176,9 +176,9 @@
                         <div class="card py-4 h-100">
                             <div class="card-body text-center">
                                 <i class="fas fa-envelope text-primary mb-2"></i>
-                                <h4 class="text-uppercase m-0">Email</h4>
+                                <h4 class="text-uppercase m-0">Correo</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50"><a href="#!">hello@yourdomain.com</a></div>
+                                <div class="small text-black-50"><a href="#!">contacto@asdinformaticos.com</a></div>
                             </div>
                         </div>
                     </div>
@@ -186,9 +186,9 @@
                         <div class="card py-4 h-100">
                             <div class="card-body text-center">
                                 <i class="fas fa-mobile-alt text-primary mb-2"></i>
-                                <h4 class="text-uppercase m-0">Phone</h4>
+                                <h4 class="text-uppercase m-0">Teléfono</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50">+1 (555) 902-8832</div>
+                                <div class="small text-black-50">+56 9 9021 8832</div>
                             </div>
                         </div>
                     </div>
